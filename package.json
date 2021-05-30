@@ -23,7 +23,7 @@
     "socket.io-client": "^2.3.0",
     "sockjs-client": "^1.4.0",
     "websocket": "^1.0.31",
-    "ws": "^7.3.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "babel-preset-expo": "~8.1.0",
